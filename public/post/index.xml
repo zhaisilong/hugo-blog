@@ -4,11 +4,6 @@
     <title>Posts on Zhai Silong&#39;s Blog</title>
     <link>https://zhaisilong.github.io/hugo-blog/post/</link>
     <description>Recent content in Posts on Zhai Silong&#39;s Blog</description>
-    <image>
-      <title>Zhai Silong&#39;s Blog</title>
-      <url>https://zhaisilong.github.io/hugo-blog/imgs/</url>
-      <link>https://zhaisilong.github.io/hugo-blog/imgs/</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 22 Apr 2023 19:37:51 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -22,9 +17,9 @@ It was a good start anyway.</description>
       <content:encoded><![CDATA[<p>Today, I built hugo blog with the <code>PaperMod</code> theme.
 I spent almost a day try featues of hugo templates, some seems worked while some failed.</p>
 <p>It was a good start anyway.</p>
-<p><img loading="lazy" src="/Users/zsl/GitHubs/hugo-blog/content/post/build-hugo.assets/books.png" alt="books"  />
-</p>
-<p><img loading="lazy" src="./build-hugo.assets/481415_large.png" alt="481415_large"  />
+<p><img loading="lazy" src="img/icon.jpg" alt="202211232354575"  />
+
+<img loading="lazy" src="books.png" alt="asa"  />
 </p>
 ]]></content:encoded>
     </item>

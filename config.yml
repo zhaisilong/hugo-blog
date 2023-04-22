@@ -1,4 +1,4 @@
-baseURL: "https://zhaisilong.github.io/hugo-blog/"
+baseURL: "https://zhaisilong.github.io/hugo-blog"
 title: "Zhai Silong's Blog"
 paginate: 15
 theme: PaperMod
@@ -22,7 +22,7 @@ params:
   description: "Just go, and the world is behind."
   keywords: [Blog, Life, World]
   author: Zhai Silong
-  images: []
+  images: ["/static/imgs/", "imgs/books.png"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
