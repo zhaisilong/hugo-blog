@@ -22,7 +22,7 @@ params:
   description: "Just go, and the world is behind."
   keywords: [Blog, Life, World]
   author: Zhai Silong
-  images: ["/static/imgs/icon.jpg"]
+  images: ["/static/"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -146,10 +146,10 @@ menu:
       name: Categories
       url: /categories/
       weight: 20
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 30
+    - identifier: github
+      name: GitHub
+      url: "https://zhaisilong.github.io/hugo-blog/"
+      weight: 50
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
