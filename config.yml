@@ -1,6 +1,6 @@
-baseURL: "https://blog.zhaisilong.com/"
+baseURL: "https://zhaisilong.github.io/hugo-blog/"
 title: "Zhai Silong's Blog"
-paginate: 5
+paginate: 15
 theme: PaperMod
 defaultContentLanguage: "en"
 
@@ -22,8 +22,8 @@ params:
   description: "Just go, and the world is behind."
   keywords: [Blog, Life, World]
   author: Zhai Silong
-  images: ["/imgs/icon.jpg"]
-  DateFormat: "2006-1-2"
+  images: ["/static/imgs/icon.jpg"]
+  DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -35,31 +35,29 @@ params:
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   ShowFullTextinRSS: true
-  UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
   hidemeta: false
   hideSummary: false
+  UseHugoToc: true
   showtoc: true
-  tocopen: true
+  tocopen: false
   searchHidden: false
   disableShare: false
-  
-
 
   assets:
     disableHLJS: true  # to disable highlightjs
     disableFingerprinting: true
-    favicon: /imgs/icon.jpg
-    favicon16x16: /imgs/icon.jpg
-    favicon32x32: /imgs/icon.jpg
-    apple_touch_icon: /imgs/icon.jpg
-    safari_pinned_tab: /imgs/icon.jpg
+    favicon: /static/imgs/icon.jpg
+    favicon16x16: /static/imgs/icon.jpg
+    favicon32x32: /static/imgs/icon.jpg
+    apple_touch_icon: /static/imgs/icon.jpg
+    safari_pinned_tab: /static/imgs/icon.jpg
 
   label:
     text: "Home"
-    icon: /imgs/icon.jpg
+    icon: /static/imgs/icon.jpg
     iconHeight: 25
 
   # profile-mode
@@ -110,10 +108,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/zhaisilong/hugo-blog/tree/main/hugo/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/zhaisilong/hugo-blog/tree/main/hugo/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
