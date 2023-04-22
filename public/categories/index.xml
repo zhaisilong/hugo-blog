@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Zhai Silong&#39;s Blog</title>
-    <link>https://blog.zhaisilong.com/categories/</link>
+    <link>https://zhaisilong.github.io/hugo-blog/categories/</link>
     <description>Recent content in Categories on Zhai Silong&#39;s Blog</description>
     <image>
       <title>Zhai Silong&#39;s Blog</title>
-      <url>https://blog.zhaisilong.com/imgs/icon.jpg</url>
-      <link>https://blog.zhaisilong.com/imgs/icon.jpg</link>
+      <url>https://zhaisilong.github.io/hugo-blog/imgs/</url>
+      <link>https://zhaisilong.github.io/hugo-blog/imgs/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Apr 2023 17:34:03 +0800</lastBuildDate><atom:link href="https://blog.zhaisilong.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Apr 2023 19:37:51 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>post</title>
-      <link>https://blog.zhaisilong.com/categories/post/</link>
-      <pubDate>Fri, 21 Apr 2023 17:34:03 +0800</pubDate>
+      <title>record</title>
+      <link>https://zhaisilong.github.io/hugo-blog/categories/record/</link>
+      <pubDate>Sat, 22 Apr 2023 19:37:51 +0800</pubDate>
       
-      <guid>https://blog.zhaisilong.com/categories/post/</guid>
+      <guid>https://zhaisilong.github.io/hugo-blog/categories/record/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

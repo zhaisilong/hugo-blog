@@ -22,7 +22,7 @@ params:
   description: "Just go, and the world is behind."
   keywords: [Blog, Life, World]
   author: Zhai Silong
-  images: ["/imgs/"]
+  images: []
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -49,15 +49,15 @@ params:
   assets:
     disableHLJS: true  # to disable highlightjs
     disableFingerprinting: true
-    favicon: /imgs/icon.jpg
-    favicon16x16: /imgs/icon.jpg
-    favicon32x32: /imgs/icon.jpg
-    apple_touch_icon: /imgs/icon.jpg
-    safari_pinned_tab: /imgs/icon.jpg
+    favicon: imgs/icon.jpg
+    favicon16x16: imgs/icon.jpg
+    favicon32x32: imgs/icon.jpg
+    apple_touch_icon: imgs/icon.jpg
+    safari_pinned_tab: imgs/icon.jpg
 
   label:
     text: "Home"
-    icon: /imgs/icon.jpg
+    icon: imgs/icon.jpg
     iconHeight: 25
 
   # profile-mode

@@ -11,5 +11,6 @@ I spent almost a day try featues of hugo templates, some seems worked while some
 
 It was a good start anyway.
 
-![books](/imgs/books.png)
-![books](/static/imgs/books.png)
+
+
+![202211232354575](../build-hugo.assets/202211232354575.jpg)
