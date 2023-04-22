@@ -179,6 +179,7 @@ enableGitInfo: true  # pudate lastmod for git users
 enableEmoji: true  # support emoji
 enableInlineShortcodes: false  # inlne short code
 hasCJKLanguage: true  # 自动检测内容中的 CJK 语言
+disqusShortname: Seeyou
 
 frontmatter:
   date: ["date", "publishDate", "lastmod"]
