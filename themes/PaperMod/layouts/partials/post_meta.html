@@ -16,10 +16,6 @@
 {{- $scratch.Add "meta" (slice (i18n "words" .WordCount | default (printf "%d words" .WordCount))) }}
 {{- end }}
 
-{{- if (.Param "busuanzi") -}}
-{{- $scratch.Add "meta" (slice (printf "<span id='busuanzi_value_page_pv'></span>" )) }} 
-{{- end }}
-
 {{- with (partial "author.html" .) }}
 {{- $scratch.Add "meta" (slice .) }}
 {{- end }}
@@ -27,4 +23,6 @@
 {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;·&nbsp;" -}}
 {{- end -}}
+
+
 

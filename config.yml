@@ -45,8 +45,6 @@ params:
   tocopen: false
   searchHidden: false
   disableShare: false
-  busuanzi: true  # 统计访问量
-  # busuanzi_site_offset: 10000
 
   assets:
     disableHLJS: true  # to disable highlightjs
