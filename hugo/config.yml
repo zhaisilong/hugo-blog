@@ -2,17 +2,19 @@ baseURL: "https://blog.zhaisilong.com/"
 title: "Zhai Silong's Blog"
 paginate: 5
 theme: PaperMod
+defaultContentLanguage: "en"
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45 # 谷歌统计
+# Copyright: Sulv
 
 minify:
   disableXML: true
-  minifyOutput: true
+  # minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -20,19 +22,19 @@ params:
   description: "Just go, and the world is behind."
   keywords: [Blog, Life, World]
   author: Zhai Silong
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  images: ["/imgs/icon.jpg"]
+  DateFormat: "2006-1-2"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: true  # 分享按钮
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -41,20 +43,25 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  searchHidden: false
+  disableShare: false
+  ShowLastMod: true  # 显示文章更新时间
+  
+
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    disableHLJS: true  # to disable highlightjs
+    disableFingerprinting: true
+    favicon: /imgs/icon.jpg
+    favicon16x16: /imgs/icon.jpg
+    favicon32x32: /imgs/icon.jpg
+    apple_touch_icon: /imgs/icon.jpg
+    safari_pinned_tab: /imgs/icon.jpg
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    icon: /imgs/icon.jpg
+    iconHeight: 25
 
   # profile-mode
   profileMode:
@@ -74,15 +81,22 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Welcome to Zhai Silong's blog
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/zhaisilong/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/zhaisilong/"
+    - name: blog
+      url: "https://zhaisilong.com/"
+    - name: rss
+      url: "index.xml"
+    - name: email
+      url: "mailto:zhaisilong@outlook.com"
+          
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com"
 
   analytics:
     google:
@@ -98,7 +112,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/zhaisilong/hugo-blog/hugo/content"
+    URL: "https://github.com/zhaisilong/hugo-blog/tree/main/hugo/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -116,21 +130,30 @@ params:
 menu:
   main:
     - identifier: archives
-      name: archives
+      name: Archives
       url: /archives/
       weight: 10
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
+    - identifier: abouts
+      name: Abouts
+      url: /abouts/
+      weight: 30
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -148,4 +171,17 @@ outputs:
         - RSS
         - JSON # is necessary
 
-enableGitInfo: true  # for lastmod
+taxonomies:
+    category: categories
+    tag: tags
+
+enableGitInfo: true  # pudate lastmod for git users
+enableEmoji: true  # support emoji
+enableInlineShortcodes: false  # inlne short code
+hasCJKLanguage: true  # 自动检测内容中的 CJK 语言
+
+frontmatter:
+  date: ["date", "publishDate", "lastmod"]
+  lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
+  publishDate: ["publishDate", "date"]
+  expiryDate: ["expiryDate"]
