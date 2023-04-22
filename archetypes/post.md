@@ -1,10 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-categories: ["post"]
+categories: []
 tags: []
 draft: false
 description: "<Desc Text.>"
 summary: "<Summary Text>"
 ---
+
 

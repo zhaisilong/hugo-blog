@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Abouts"
 date: 2023-04-22T16:46:26+08:00
 lastmod: 2023-04-22T16:46:26+08:00
 ---
 
-这个人很懒，似乎没有留下一点痕迹。::smiles:: :+1:
+Nothing is here.

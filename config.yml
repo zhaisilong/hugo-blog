@@ -45,7 +45,6 @@ params:
   tocopen: true
   searchHidden: false
   disableShare: false
-  # ShowLastMod: true  # 显示文章更新时间
   
 
 
@@ -179,10 +178,10 @@ enableGitInfo: true  # pudate lastmod for git users
 enableEmoji: true  # support emoji
 enableInlineShortcodes: false  # inlne short code
 hasCJKLanguage: true  # 自动检测内容中的 CJK 语言
-disqusShortname: Seeyou
+disqusShortname: zhaisilong
 
 frontmatter:
   date: ["date", "publishDate", "lastmod"]
-  lastmod: [":fileModTime", ":git", "lastmod", "date", "publishDate"]
+  lastmod: [":git", "lastmod", ":fileModTime", "date", "publishDate"]
   publishDate: ["publishDate", "date"]
   expiryDate: ["expiryDate"]
