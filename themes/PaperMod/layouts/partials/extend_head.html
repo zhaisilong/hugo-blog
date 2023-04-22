@@ -3,4 +3,12 @@
 {{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
 {{- /* Head custom content area end */ -}}
 
+
 {{ partial "mathjax.html" . }}
+
+
+<!-- busuanzi -->
+{{- if .Param "busuanzi" -}}
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <meta name="referrer" content="no-referrer-when-downgrade">
+{{- end -}}
