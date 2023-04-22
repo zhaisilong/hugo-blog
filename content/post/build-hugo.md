@@ -12,3 +12,4 @@ I spent almost a day try featues of hugo templates, some seems worked while some
 It was a good start anyway.
 
 ![books](/imgs/books.png)
+![books](/static/imgs/books.png)
