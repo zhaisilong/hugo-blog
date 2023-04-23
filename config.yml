@@ -42,7 +42,7 @@ params:
   hideSummary: false
   UseHugoToc: true
   showtoc: true
-  tocopen: false
+  tocopen: true
   searchHidden: false
   disableShare: false
 
