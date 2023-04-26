@@ -6,4 +6,4 @@ tags: ["hugo"]
 draft: false
 ---
 
-使用 `Hugo` 搭建个人博客，直接托管到 `GitHub Pages` 上。:+1: :smile:
+纪念一下，使用 `Hugo` 搭建个人博客，并托管到 `GitHub Pages` 上。:+1: :smile:
