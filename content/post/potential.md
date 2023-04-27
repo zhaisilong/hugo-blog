@@ -1,8 +1,8 @@
 ---
-title: "Potential"
+title: Potential
 date: 2023-04-22T22:08:14+08:00
-categories: ["post"]
-tags: ["potential"]
+categories: [post]
+tags: [potential]
 draft: false
 summary: "运势是个体意志交汇的结果，个人的力量不足于改变。"
 ---

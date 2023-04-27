@@ -1,8 +1,8 @@
 ---
 title: "Crack"
 date: 2023-04-25T16:04:44+08:00
-categories: [“post”]
-tags: ["economic"]
+categories: [post]
+tags: [economic]
 draft: false
 description: "<Desc Text.>"
 summary: "如果你追寻真理，那么终将获得安慰；如果你寻求安慰，那么既得不到安慰，也得不到真理，只会……以一厢情愿为始，以绝望告终。知识是打开改变之锁的钥匙。世界必须先要抬起头来，勇敢面对当下的真实困境。"

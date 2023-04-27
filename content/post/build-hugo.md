@@ -1,7 +1,7 @@
 ---
 title: "Build Hugo"
 date: 2023-04-21T19:37:51+08:00
-categories: ["says"]
+categories: ["day"]
 tags: ["hugo"]
 draft: false
 ---
