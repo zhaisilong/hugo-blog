@@ -1,7 +1,7 @@
 ---
 title: "Crack"
 date: 2023-04-25T16:04:44+08:00
-categories: [“economic”]
+categories: [“post”]
 tags: ["economic"]
 draft: false
 description: "<Desc Text.>"

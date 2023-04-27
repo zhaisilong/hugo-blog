@@ -1,7 +1,7 @@
 ---
 title: "Invest"
 date: 2023-04-23T13:11:14+08:00
-categories: []
+categories: ["post"]
 tags: []
 draft: false
 description: "学习投资，就是学习观察"

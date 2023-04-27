@@ -1,7 +1,7 @@
 ---
 title: "ML and DL"
 date: 2023-04-23T12:26:09+08:00
-categories: ["tech"]
+categories: ["post"]
 tags: ["cs"]
 draft: false
 description: "<Desc Text.>"

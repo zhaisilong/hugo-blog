@@ -1,7 +1,7 @@
 ---
 title: "What is Love"
 date: 2023-04-23T09:11:53+08:00
-categories: ["says"]
+categories: ["post"]
 tags: ["love"]
 draft: false
 description: "我爱你，你却无动于衷。"
