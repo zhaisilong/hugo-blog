@@ -63,22 +63,22 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    title: Zhai Silong's Blog
+    subtitle: Curious about the world!
+    imageUrl: imgs/icon.jpg
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Ghost Blade
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Archives
+        url: archives
+
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hi There \U0001F44B"
     Content: Welcome to Zhai Silong's blog
+
 
   socialIcons:
     - name: twitter
@@ -106,7 +106,9 @@ params:
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInSingle: false # hide on single page
+    responsiveImages: false
+    linkFullImages: true
 
   # editPost:
   #   URL: "https://github.com/zhaisilong/hugo-blog/tree/main/hugo/content"
