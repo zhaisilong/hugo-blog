@@ -3,7 +3,7 @@ title: "Growth"
 date: 2023-04-23T09:13:32+08:00
 categories: ["post"]
 tags: ["growth"]
-draft: false
+draft: true
 description: "让人成长最快的是痛苦的经历。"
 summary: "<Summary Text>"
 ---

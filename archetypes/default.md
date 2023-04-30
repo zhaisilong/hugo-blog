@@ -4,7 +4,7 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 categories: []
 tags: []
-draft: false
+draft: true
 description: "Desc Text."
 weight: 1
 cover:
