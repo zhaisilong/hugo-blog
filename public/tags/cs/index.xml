@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cs on Zhai Silong&#39;s Blog</title>
+    <link>https://zhaisilong.github.io/hugo-blog/tags/cs/</link>
+    <description>Recent content in cs on Zhai Silong&#39;s Blog</description>
+    <image>
+      <title>Zhai Silong&#39;s Blog</title>
+      <url>https://zhaisilong.github.io/static/imgs/</url>
+      <link>https://zhaisilong.github.io/static/imgs/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Apr 2023 12:26:09 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML and DL</title>
+      <link>https://zhaisilong.github.io/hugo-blog/post/ml-and-dl/</link>
+      <pubDate>Sun, 23 Apr 2023 12:26:09 +0800</pubDate>
+      
+      <guid>https://zhaisilong.github.io/hugo-blog/post/ml-and-dl/</guid>
+      <description>&amp;lt;Desc Text.&amp;gt;</description>
+      <content:encoded><![CDATA[<h2 id="机器学习和深度学习">机器学习和深度学习</h2>
+<p>机器学习和深度学习是有优劣的。总的来说，深度学习具有强烈的黑盒性质，但是带来了前所未有的使用性。</p>
+<p>我曾以为深度学习无法解决的问题，比如小数据集的回归以及分类问题。事实上，机器学习也很难解决。这让我对机器学习失去了信息。也许它适用更小而细的领域。我们是否可以全面拥抱深度学习？尽管在有些领域，深度学习并不能达到 SOTA，但是消以时间因素，因为它是能够快速进化的，我们只需要一个差不多的结果，然后不断迭代产品。就能实现某些重点突破。比如 AlphaFold。</p>
+<h2 id="拥抱深度学习">拥抱深度学习</h2>
+<p>我们不需要很快搞清楚原理，这就是科技的发展。什么让人言情啊。</p>
+<h2 id="torchdrug">TorchDrug</h2>
+<p>用了一段时间 TorchDrug 后，有几点感想。</p>
+<ol>
+<li>它总体上是个学术界玩具，很难用在实际数据上。换句话说，原始数据需要更多的工程处理。</li>
+<li>代码写的好，分装好，反之则是无法 <em>魔改</em></li>
+<li>各种个样的 Bug，无法有效和开发者沟通并解决。（尤其是化学反应那块，因为开发者主攻分子和蛋白质）</li>
+</ol>
+<h2 id="chatgpt">ChatGPT</h2>
+<p>全面拥抱 ChatGPT 吧，承认自己很菜，用工具武装自己，拓展自己的能力范围。</p>
+<p>工具的好坏取决于你运用它们的能力，普通人都能使用的工具是优秀的工具，但是强大的工具从来都是定制化的。</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

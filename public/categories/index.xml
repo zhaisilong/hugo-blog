@@ -4,14 +4,29 @@
     <title>Categories on Zhai Silong&#39;s Blog</title>
     <link>https://zhaisilong.github.io/hugo-blog/categories/</link>
     <description>Recent content in Categories on Zhai Silong&#39;s Blog</description>
+    <image>
+      <title>Zhai Silong&#39;s Blog</title>
+      <url>https://zhaisilong.github.io/static/imgs/</url>
+      <link>https://zhaisilong.github.io/static/imgs/</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Apr 2023 19:37:51 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2023 13:49:40 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>record</title>
-      <link>https://zhaisilong.github.io/hugo-blog/categories/record/</link>
-      <pubDate>Sat, 22 Apr 2023 19:37:51 +0800</pubDate>
+      <title>post</title>
+      <link>https://zhaisilong.github.io/hugo-blog/categories/post/</link>
+      <pubDate>Sat, 29 Apr 2023 13:49:40 +0800</pubDate>
       
-      <guid>https://zhaisilong.github.io/hugo-blog/categories/record/</guid>
+      <guid>https://zhaisilong.github.io/hugo-blog/categories/post/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>day</title>
+      <link>https://zhaisilong.github.io/hugo-blog/categories/day/</link>
+      <pubDate>Sat, 22 Apr 2023 09:25:54 +0800</pubDate>
+      
+      <guid>https://zhaisilong.github.io/hugo-blog/categories/day/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
