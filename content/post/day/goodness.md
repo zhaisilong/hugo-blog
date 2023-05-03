@@ -1,7 +1,7 @@
 ---
 title: "Goodness"
 date: 2023-04-23T12:51:56+08:00
-categories: ["post"]
+categories: ["day"]
 tags: ["life"]
 draft: false
 description: "记《了凡四训》 中的修善之法"

@@ -1,7 +1,7 @@
 ---
 title: "Ming"
 date: 2023-05-01T13:20:34+08:00
-categories: ["post"]
+categories: ["day"]
 tags: ["life"]
 draft: false
 description: "一命二运三风水，四积阴德五读书。六名七相八敬神，九交贵人十养生。"

@@ -1,0 +1,25 @@
+---
+title: "Financial Reports"
+date: 2023-05-03T10:42:38+08:00
+categories: ["post"]
+tags: ["finance"]
+draft: true
+description: "本文旨在学习记录财报解读和分析。"
+summary: "<Summary Text>"
+---
+
+会计看来，企业一辈子其实只做了三件事：经营、投资和筹资。
+
+经营活动
+
+投资活动
+
+筹资活动
+
+## 资产负债表
+
+
+
+## 利润表
+
+## 现金流
