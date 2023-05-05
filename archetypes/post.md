@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-categories: ["post"]
+categories: ["文章"]
 tags: []
 draft: true
 description: "<Desc Text.>"

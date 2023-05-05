@@ -1,8 +1,8 @@
 baseURL: "https://zhaisilong.github.io/hugo-blog"
-title: "Zhai Silong's Blog"
+title: "Slow's Blog"
 paginate: 15
 theme: PaperMod
-defaultContentLanguage: "en"
+defaultContentLanguage: "zh"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -15,10 +15,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "Zhai Silong's Blog"
-  description: "Just go, and the world is behind."
-  keywords: [Blog, Life, World]
-  author: Zhai Silong
+  title: "Slow 的博客"
+  description: "往前走，世界就在身后。"
+  keywords: [生活, 世界, 经济, 政治, 成长]
+  author: Slow
   images: ["/static/imgs/", "imgs/books.png"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
@@ -53,14 +53,14 @@ params:
     safari_pinned_tab: imgs/icon.jpg
 
   label:
-    text: "Home"
+    text: "Slow 🏠"
     icon: imgs/icon.jpg
     iconHeight: 25
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Zhai Silong's Blog
+    title: Slow's Blog
     subtitle: Curious about the world!
     imageUrl: imgs/icon.jpg
     imageWidth: 120
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi There \U0001F44B"
-    Content: Welcome to Zhai Silong's blog
+    Title: "你好 \U0001F44B"
+    Content: 欢迎来到 Slow 的博客
 
 
   socialIcons:
@@ -126,23 +126,23 @@ params:
 menu:
   main:
     - identifier: archives
-      name: Archives
+      name: 归档 📦
       url: /archives/
       weight: 10
     - identifier: abouts
-      name: Abouts
+      name: 关于 📒
       url: /abouts/
       weight: 30
     - identifier: tags
-      name: Tags
+      name: 标签 🏷️
       url: /tags/
       weight: 20
     - identifier: search
-      name: Search
+      name: 搜索 🔍
       url: /search/
       weight: 40
     - identifier: categories
-      name: Categories
+      name: 分类 🌲
       url: /categories/
       weight: 20
     - identifier: github
