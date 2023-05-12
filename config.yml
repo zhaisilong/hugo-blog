@@ -42,6 +42,8 @@ params:
   tocopen: true
   searchHidden: false
   disableShare: false
+  # My Google Analytics 4
+  googleAnalyticsID: G-S5V88P1LL5
 
   assets:
     disableHLJS: true  # to disable highlightjs
@@ -185,5 +187,3 @@ frontmatter:
 
 # googleAnalytics: G-S5V88P1LL5
 
-# My Google Analytics 4
-googleAnalyticsID: "G-00000XXXXX"

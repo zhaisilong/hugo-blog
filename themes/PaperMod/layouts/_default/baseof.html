@@ -5,9 +5,9 @@
     {{- partial "head.html" . }}
 
     {{- /* My Google Analytics V4 */ -}}
-    {{ if .Site.Params.GoogleAnalyticsID }}
-    {{ partial "analytics-gtag.html" . }}
-    {{ end }}
+    {{- if (.Param "googleAnalyticsID") }}
+    {{- partial "analytics-gtag.html" . -}}
+    {{- end }}
 </head>
 
 <body class="
