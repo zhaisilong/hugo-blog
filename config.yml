@@ -94,7 +94,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-S5V88P1LL5"
+      SiteVerificationTag: "XYZabc"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -182,3 +182,8 @@ frontmatter:
   lastmod: [":git", "lastmod", ":fileModTime", "date", "publishDate"]
   publishDate: ["publishDate", "date"]
   expiryDate: ["expiryDate"]
+
+googleAnalytics: G-S5V88P1LL5
+privacy:
+    googleAnalytics:
+        disable: false
