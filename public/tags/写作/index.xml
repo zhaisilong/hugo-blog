@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>写作 on Slow&#39;s Blog</title>
+    <link>https://zhaisilong.github.io/hugo-blog/tags/%E5%86%99%E4%BD%9C/</link>
+    <description>Recent content in 写作 on Slow&#39;s Blog</description>
+    <image>
+      <title>Slow&#39;s Blog</title>
+      <url>https://zhaisilong.github.io/static/imgs/</url>
+      <link>https://zhaisilong.github.io/static/imgs/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Apr 2023 19:37:51 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/tags/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搭建 Hugo</title>
+      <link>https://zhaisilong.github.io/hugo-blog/post/day/2023-04-21/</link>
+      <pubDate>Fri, 21 Apr 2023 19:37:51 +0800</pubDate>
+      
+      <guid>https://zhaisilong.github.io/hugo-blog/post/day/2023-04-21/</guid>
+      <description>纪念一下，使用 Hugo 搭建个人博客，并托管到 GitHub Pages 上。👍 😄</description>
+      <content:encoded><![CDATA[<p>纪念一下，使用 <code>Hugo</code> 搭建个人博客，并托管到 <code>GitHub Pages</code> 上。👍 😄</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

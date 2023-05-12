@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>人工智能 on Slow&#39;s Blog</title>
+    <link>https://zhaisilong.github.io/hugo-blog/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+    <description>Recent content in 人工智能 on Slow&#39;s Blog</description>
+    <image>
+      <title>Slow&#39;s Blog</title>
+      <url>https://zhaisilong.github.io/static/imgs/</url>
+      <link>https://zhaisilong.github.io/static/imgs/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 May 2023 13:09:02 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIDD 的破灭？🤖️</title>
+      <link>https://zhaisilong.github.io/hugo-blog/post/day/2023-05-05/</link>
+      <pubDate>Fri, 05 May 2023 13:09:02 +0800</pubDate>
+      
+      <guid>https://zhaisilong.github.io/hugo-blog/post/day/2023-05-05/</guid>
+      <description>最近 AACR 会议，Relay Therapeutics 公布了进入临床的第三款小分子抑制剂，选择性的口服 PI3Kα 抑制剂 RLY-2608，虽然安全性良好但有效性堪忧，导致数</description>
+      <content:encoded><![CDATA[<p>最近 AACR 会议，Relay Therapeutics 公布了进入临床的第三款小分子抑制剂，选择性的口服 PI3Kα 抑制剂 RLY-2608，虽然安全性良好但有效性堪忧，导致数据一公布公司市值下跌三分之一。给本来就备受质疑的AIDD领域再添一朵乌云。最近一年多AIDD的企业确实是多忧愁少欢喜。</p>
+<p>在当前 AI 风口下，几乎所有与其相关的事物都能在短时间内成为热门话题。但是这掩盖了行业真实的进展，拉高了人们对科技的期待。非领域的专业人士掌握了媒体宣传却只关注流量，而不展示行业的真实发展状况。当实际的问题一个接一个到来，我们不得不回顾，当前的技术存在巨大的问题。泡沫的破碎，是人们对未来科技的发展更深更真实的认识。</p>
+<h2 id="links">Links</h2>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/OqS8BBMzPnMpXxFQQgmuxQ">AI设计的分子进入临床后表现如何？</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

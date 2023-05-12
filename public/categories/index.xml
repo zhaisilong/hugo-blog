@@ -1,32 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Zhai Silong&#39;s Blog</title>
+    <title>Categories on Slow&#39;s Blog</title>
     <link>https://zhaisilong.github.io/hugo-blog/categories/</link>
-    <description>Recent content in Categories on Zhai Silong&#39;s Blog</description>
+    <description>Recent content in Categories on Slow&#39;s Blog</description>
     <image>
-      <title>Zhai Silong&#39;s Blog</title>
+      <title>Slow&#39;s Blog</title>
       <url>https://zhaisilong.github.io/static/imgs/</url>
       <link>https://zhaisilong.github.io/static/imgs/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 13:49:40 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 10:22:39 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>post</title>
-      <link>https://zhaisilong.github.io/hugo-blog/categories/post/</link>
-      <pubDate>Sat, 29 Apr 2023 13:49:40 +0800</pubDate>
+      <title>散记</title>
+      <link>https://zhaisilong.github.io/hugo-blog/categories/%E6%95%A3%E8%AE%B0/</link>
+      <pubDate>Fri, 12 May 2023 10:22:39 +0800</pubDate>
       
-      <guid>https://zhaisilong.github.io/hugo-blog/categories/post/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>day</title>
-      <link>https://zhaisilong.github.io/hugo-blog/categories/day/</link>
-      <pubDate>Sat, 22 Apr 2023 09:25:54 +0800</pubDate>
-      
-      <guid>https://zhaisilong.github.io/hugo-blog/categories/day/</guid>
+      <guid>https://zhaisilong.github.io/hugo-blog/categories/%E6%95%A3%E8%AE%B0/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

@@ -183,7 +183,7 @@ frontmatter:
   publishDate: ["publishDate", "date"]
   expiryDate: ["expiryDate"]
 
-googleAnalytics: G-S5V88P1LL5
-privacy:
-    googleAnalytics:
-        disable: false
+# googleAnalytics: G-S5V88P1LL5
+
+# My Google Analytics 4
+googleAnalyticsID: "G-00000XXXXX"

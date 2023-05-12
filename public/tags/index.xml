@@ -1,52 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Zhai Silong&#39;s Blog</title>
+    <title>Tags on Slow&#39;s Blog</title>
     <link>https://zhaisilong.github.io/hugo-blog/tags/</link>
-    <description>Recent content in Tags on Zhai Silong&#39;s Blog</description>
+    <description>Recent content in Tags on Slow&#39;s Blog</description>
     <image>
-      <title>Zhai Silong&#39;s Blog</title>
+      <title>Slow&#39;s Blog</title>
       <url>https://zhaisilong.github.io/static/imgs/</url>
       <link>https://zhaisilong.github.io/static/imgs/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 13:49:40 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 10:22:39 +0800</lastBuildDate><atom:link href="https://zhaisilong.github.io/hugo-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>life</title>
-      <link>https://zhaisilong.github.io/hugo-blog/tags/life/</link>
-      <pubDate>Sat, 29 Apr 2023 13:49:40 +0800</pubDate>
+      <title>教育</title>
+      <link>https://zhaisilong.github.io/hugo-blog/tags/%E6%95%99%E8%82%B2/</link>
+      <pubDate>Fri, 12 May 2023 10:22:39 +0800</pubDate>
       
-      <guid>https://zhaisilong.github.io/hugo-blog/tags/life/</guid>
+      <guid>https://zhaisilong.github.io/hugo-blog/tags/%E6%95%99%E8%82%B2/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
-      <title>cs</title>
-      <link>https://zhaisilong.github.io/hugo-blog/tags/cs/</link>
-      <pubDate>Sun, 23 Apr 2023 12:26:09 +0800</pubDate>
+      <title>佛</title>
+      <link>https://zhaisilong.github.io/hugo-blog/tags/%E4%BD%9B/</link>
+      <pubDate>Thu, 11 May 2023 09:11:55 +0800</pubDate>
       
-      <guid>https://zhaisilong.github.io/hugo-blog/tags/cs/</guid>
+      <guid>https://zhaisilong.github.io/hugo-blog/tags/%E4%BD%9B/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
-      <title>knowledge</title>
-      <link>https://zhaisilong.github.io/hugo-blog/tags/knowledge/</link>
+      <title>人工智能</title>
+      <link>https://zhaisilong.github.io/hugo-blog/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+      <pubDate>Fri, 05 May 2023 13:09:02 +0800</pubDate>
+      
+      <guid>https://zhaisilong.github.io/hugo-blog/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>医药</title>
+      <link>https://zhaisilong.github.io/hugo-blog/tags/%E5%8C%BB%E8%8D%AF/</link>
+      <pubDate>Fri, 05 May 2023 13:09:02 +0800</pubDate>
+      
+      <guid>https://zhaisilong.github.io/hugo-blog/tags/%E5%8C%BB%E8%8D%AF/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>https://zhaisilong.github.io/hugo-blog/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Mon, 01 May 2023 13:20:34 +0800</pubDate>
+      
+      <guid>https://zhaisilong.github.io/hugo-blog/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>经济</title>
+      <link>https://zhaisilong.github.io/hugo-blog/tags/%E7%BB%8F%E6%B5%8E/</link>
+      <pubDate>Wed, 26 Apr 2023 12:51:56 +0800</pubDate>
+      
+      <guid>https://zhaisilong.github.io/hugo-blog/tags/%E7%BB%8F%E6%B5%8E/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>政治</title>
+      <link>https://zhaisilong.github.io/hugo-blog/tags/%E6%94%BF%E6%B2%BB/</link>
       <pubDate>Sat, 22 Apr 2023 09:25:54 +0800</pubDate>
       
-      <guid>https://zhaisilong.github.io/hugo-blog/tags/knowledge/</guid>
+      <guid>https://zhaisilong.github.io/hugo-blog/tags/%E6%94%BF%E6%B2%BB/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
-      <title>try</title>
-      <link>https://zhaisilong.github.io/hugo-blog/tags/try/</link>
+      <title>写作</title>
+      <link>https://zhaisilong.github.io/hugo-blog/tags/%E5%86%99%E4%BD%9C/</link>
       <pubDate>Fri, 21 Apr 2023 19:37:51 +0800</pubDate>
       
-      <guid>https://zhaisilong.github.io/hugo-blog/tags/try/</guid>
+      <guid>https://zhaisilong.github.io/hugo-blog/tags/%E5%86%99%E4%BD%9C/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
